@@ -13,7 +13,7 @@ This script automates the installation of essential applications and initial con
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/92username/vps-fresh-install.git
+   git clone https://github.com/92username/fresh-install-vps
    ```
 
 2. Make the script executable:
