@@ -5,7 +5,7 @@ This script automates the installation of essential applications and initial con
 ## Features
 
 - **System Update**: Updates and upgrades the system.
-- **Package Installation**: Installs essential tools like `neofetch`, `ssh`, `git`, `curl`, `wget`, `htop`, `ufw`, `vim`, Docker, and Docker Compose.
+- **Package Installation**: Installs essential tools like `neofetch`, `ssh`, `git`, `curl`, `wget`, `htop`, `ufw`, and `vim`,
 - **Firewall Setup**: Enables basic firewall with SSH access.
 - **Docker Configuration**: Installs and configures Docker, adding the user to the Docker group.
 
