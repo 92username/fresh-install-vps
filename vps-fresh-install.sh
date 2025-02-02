@@ -4,7 +4,7 @@
 sudo apt update && sudo apt upgrade -y
 
 # Instalar pacotes básicos
-sudo apt install -y neofetch ssh git curl wget htop ufw vim docker.io docker-compose screen
+sudo apt install -y neofetch git curl wget htop ufw vim docker.io docker-compose screen
 
 # Ativar e configurar o firewall básico
 sudo ufw allow OpenSSH
